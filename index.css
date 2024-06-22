@@ -1,0 +1,152 @@
+*{
+margin: 0;
+padding: 0;
+border: none; 
+outline: none;
+}
+
+body{
+    background-color: antiquewhite;
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+.wrraper {
+    width: 1000px;
+    height: 500px;
+    background-color: burlywood;
+    background: rgb(238,220,174);
+    background: radial-gradient(circle, rgba(238,220,174,1) 0%, rgba(224,148,41,0.76234243697479) 100%);
+    margin: 50px auto;
+    border-radius: 50%;
+    border: 10px solid coral;
+    position: relative;
+}
+
+input{
+position: absolute;
+width: 90px;
+border-radius: 50%;
+padding: 20px;
+text-align: center;
+font-weight: 700;
+color: rgb(0, 0, 0);
+background-color: cornflowerblue;
+}
+
+::placeholder{
+    color: rgb(255, 255, 255);
+}
+
+#left_1{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    left: 37%;
+    top: 3%;
+}
+
+#left_2{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    left: 15%;
+    top: 10%;
+}
+
+#left_3{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    left: 3%;
+    top: 30%;
+}
+
+#left_4{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    left: 3%;
+    top: 52%;
+}
+
+#left_5{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    left: 16%;
+    top: 70%;
+}
+
+#left_6{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    left: 37%;
+    top: 77%;
+}
+
+#right_1{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    right: 20%;
+    top: 13%;
+}
+
+#right_2{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    right: 5%;
+    top: 30%;
+}
+
+#right_3{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    right: 5%;
+    top: 50%;
+}
+
+#right_4{
+    width: 150px;
+    font-size: 25px;
+    padding: 45px;
+    right: 20%;
+    top: 67%;
+}
+
+.btn{
+    background-color: rgb(30, 186, 186);
+    color: white;
+    border-radius: 50%;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 700;
+    position: absolute;
+    left: 44%;
+    top: 60%;
+}
+
+#hashiv{
+    font-size: 2rem;
+    font-weight: 900;
+    color: rgb(38, 97, 77);
+    position: absolute;
+    left: 50%;
+    top: 35%;
+}
+
+#ardyunq{
+    position: absolute;
+    color: rgb(38, 97, 77);
+    left: 49%;
+    top: 30%;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+                               
